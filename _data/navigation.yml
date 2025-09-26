@@ -5,7 +5,5 @@ main:
     url: /Teaching/
   - title: "CV"
     url: /CV/
-  - title: "Other Materials"
-    url: /Other-Materials/
-  - title: "NOT Fun Stuff"
+  - title: "Fun Stuff"
     url: /Fun-Stuff/
